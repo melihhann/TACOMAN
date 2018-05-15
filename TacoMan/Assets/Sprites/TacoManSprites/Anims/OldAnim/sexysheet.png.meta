@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 4dbbb4e856a46b541a1dee04c05c1ff0
+timeCreated: 1516553128
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sexysheet_0
+    21300002: sexysheet_1
+    21300004: sexysheet_2
+    21300006: sexysheet_3
+    21300008: sexysheet_4
+    21300010: sexysheet_5
+    21300012: sexysheet_6
+    21300014: sexysheet_7
+    21300016: sexysheet_8
+    21300018: sexysheet_9
+    21300020: sexysheet_10
+    21300022: sexysheet_11
+    21300024: sexysheet_12
+    21300026: sexysheet_13
+    21300028: sexysheet_14
+    21300030: sexysheet_15
+    21300032: sexysheet_16
+    21300034: sexysheet_17
+    21300036: sexysheet_18
+    21300038: sexysheet_19
+    21300040: sexysheet_20
+    21300042: sexysheet_21
+    21300044: sexysheet_22
+    21300046: sexysheet_23
+    21300048: sexysheet_24
+    21300050: sexysheet_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sexysheet_9
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 0
+        width: 754
+        height: 1251
+      alignment: 9
+      pivot: {x: 0.4607934, y: 0.36560175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sexysheet_23
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 754
+        height: 1251
+      alignment: 9
+      pivot: {x: 0.44119027, y: 0.3862784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sexysheet_24
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 10
+        width: 754
+        height: 1236
+      alignment: 9
+      pivot: {x: 0.43383887, y: 0.38340345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sexysheet_25
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 11
+        width: 754
+        height: 1251
+      alignment: 9
+      pivot: {x: 0.44364074, y: 0.3700325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
